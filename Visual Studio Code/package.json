@@ -3,9 +3,9 @@
 	"displayName": "Settings IDEs - Keymap",
 	"description": "Settings IDEs - Keymap - VS Code",
 	"publisher": "filippochinni",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
-		"vscode": "^1.250.0"
+		"vscode": "^1.25.0"
 	},
 	"categories": [
 		"Keymaps"
