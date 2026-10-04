@@ -257,9 +257,10 @@ Note: When there is a `|` pipe char in `Command` or `Desc` columns, it means tha
 
 ## Check out more from the Settings IDEs Series
 
-- **Settings IDEs - ColorTheme** --> [GitHub](https://github.com/filippochinni/settings-ides--color-theme) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=filippochinni.settings-ides--color-theme)
+- **Settings IDEs - ColorTheme** --> [GitHub](https://github.com/filippochinni/settings-ides--color-theme) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=filippochinni.settings-ides--color-theme) | [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/34753-settings-ides--colortheme)
 
-My Extensions Publisher Profile: [Marketplace Publishers](https://marketplace.visualstudio.com/publishers/filippochinni)
+My VS Code Marketplace Profile: [Visual Studio Marketplace Publishers](https://marketplace.visualstudio.com/publishers/filippochinni)
 
+My Jetbrains Marketplace Profile: [Jetbrains Marketplace](https://plugins.jetbrains.com/vendor/filippochinni)
 
 <!-- <a href="https://www.flaticon.com/free-icons/gaming" title="gaming icons">Gaming icons created by Flat Icons - Flaticon</a> -->
