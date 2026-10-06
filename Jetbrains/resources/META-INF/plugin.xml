@@ -2,7 +2,7 @@
 <idea-plugin>
 	<!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
 	<id>com.filippochinni.settings-ides--keymap</id>
-	<version>1.0.4</version>
+	<version>1.0.7</version>
 
 	<!-- Public plugin name should be written in Title Case.
 		 Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
@@ -31,6 +31,6 @@
 	<depends>com.intellij.modules.platform</depends>
 
 	<extensions defaultExtensionNs="com.intellij">
-		<bundledKeymap file="Settings IDEs.xml"/>
+		<bundledKeymap file="Settings IDEs - Keymap.xml"/>
 	</extensions>
 </idea-plugin>
